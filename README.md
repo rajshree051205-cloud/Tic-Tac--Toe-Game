@@ -1,2 +1,3 @@
-# Tic-Tac--Toe-Game
-A simple Tic Tac Toe game built using HTML,CSS , and JavaScript . Focused on DOM manipulation ,game logic and basic UI design.
+Tic Tac Toe
+
+A simple, interactive, and responsive Tic Tac Toe game built with HTML, CSS, and JavaScript. Play against a friend on the same device with a clean and easy-to-use interface.
